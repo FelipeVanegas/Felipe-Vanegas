@@ -8,16 +8,13 @@ Comprender y conocer diferentes buscadores de internet.
 
 Desarollo:
 
-¿Què es un buscador de internet acadèmico?
-Los buscadores de internet en el contexto acadèmico
+¿Què es un buscador de internet?
+Los buscadores de internet son aplicaciones que exploran internet
 Ejemplos:
-- 
+- Yahoo
+- Bing
+- Google
+Es el buscador màs usado en la Web.
 
-IA
-La IA son sistemas diseñados para realizar las tareas que por lo general necesitarian ser realizadas por humanos. Actualmente estan cambiando y evolucionbando la educaciòn tanto para bien, como para mal; algunos estan usandola como una ayuda y herramienta para agilizar procesos, mientras otros lo usan para quitarse trabajo y no hacer nada.
-Ejemplos:
-- ChatGPT
-- ZeroGPT
-- GPTZero
 Resumen:
 
