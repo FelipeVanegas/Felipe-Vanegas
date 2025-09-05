@@ -1,5 +1,33 @@
+Tìtulo:
+
+BUSCADORES DE INTERNET
+
 Objetivo:
+
 Comprender y conocer diferentes buscadores de internet.
+
 Desarollo:
-Los buscadores de internet son
+
+¿Què es un buscador de internet acadèmico?
+Los buscadores de internet en el contexto acadèmico
+Ejemplos:
+- Google Scholar (Google Académico)
+
+- Microsoft Academic
+
+- ScienceDirect y SpringerLink
+
+- ResearchGate
+
+- BASE (Bielefeld Academic Search Engine)
+
+- Repositorio UNAM
+
+IA
+La IA son sistemas diseñados para realizar las tareas que por lo general necesitarian ser realizadas por humanos. Actualmente estan cambiando y evolucionbando la educaciòn tanto para bien, como para mal; algunos estan usandola como una ayuda y herramienta para agilizar procesos, mientras otros lo usan para quitarse trabajo y no hacer nada.
+Ejemplos:
+- ChatGPT
+- ZeroGPT
+- GPTZero
 Resumen:
+
