@@ -9,12 +9,7 @@ Comprender y conocer diferentes buscadores de internet.
 Desarollo:
 
 ¿Què es un buscador de internet?
-Los buscadores de internet son aplicaciones que exploran internet
-Ejemplos:
-- Yahoo
-- Bing
-- Google
-Es el buscador màs usado en la Web.
+En el ámbito académico, los motores de búsqueda especializados son esenciales para encontrar información que sea confiable, creada por expertos y ademas de facil de usar que sea pertienente y util para todo lo que tiene que ver con el ambito academico (investigaciones, tareas, etc...).
 
 Resumen:
 
