@@ -25,3 +25,4 @@ En el ámbito académico, los motores de búsqueda especializados son esenciales
     Plataforma que guarda trabajos academicos, tesis, articulos y recursos de investigacion de la UNAM.
 Resumen:
 
+Los buscadores académicos son herramientas en línea clave para encontrar información confiable y relevante en lo académico, como artículos, tesis y libros. son fáciles de usar y se especializan en ofrecer contenido verificado.
