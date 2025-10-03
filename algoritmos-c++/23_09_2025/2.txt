@@ -1,0 +1,12 @@
+Algoritmo Sumar_100_Números
+	Definir I, A, S Como Entero
+	I <- 100
+	S <- 0
+	Mientras I > 0 Hacer
+		Escribir "Ingrese un número: "
+		Leer A
+		S <- S + A
+		I <- I - 1
+	FinMientras	
+	Escribir "La suma de los 100 números es: ", S
+FinProceso

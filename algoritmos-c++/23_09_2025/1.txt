@@ -1,0 +1,13 @@
+Algoritmo suma_de_2_números
+		Definir a, b, c Como Real
+		
+		Escribir "Ingrese el primer número: "
+		Leer a
+		
+		Escribir "Ingrese el segundo número: "
+		Leer b
+		
+		c <- a + b
+		
+		Escribir "La suma de ", a, " + ", b, " es: ", c
+FinProceso

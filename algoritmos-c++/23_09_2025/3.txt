@@ -1,0 +1,13 @@
+Algoritmo Suma_N_números
+	Definir N, A, S Como Entero
+	Escribir "Cuantos números desea sumar? "
+	Leer N
+	S <- 0
+	Mientras N > 0 Hacer
+		Escribir "Ingrese un número: "
+		Leer A
+		S <- S + A
+		N <- N - 1
+	FinMientras
+	Escribir "La suma de los números ingresados es: ", S
+FinProceso

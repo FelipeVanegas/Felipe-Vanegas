@@ -1,0 +1,22 @@
+Algoritmo Reloj
+	Definir H, M, S Como Entero
+    H <- 0
+    M <- 0
+    S <- 0
+    Mientras Verdadero Hacer
+        Escribir H, ":", M, ":", S
+        Esperar 1 Segundos
+        S <- S + 1
+        Si S = 60 Entonces
+            S <- 0
+            M <- M + 1
+        FinSi
+        Si M = 60 Entonces
+            M <- 0
+            H <- H + 1
+        FinSi
+        Si H = 24 Entonces
+            H <- 0
+        FinSi
+    FinMientras
+FinAlgoritmo

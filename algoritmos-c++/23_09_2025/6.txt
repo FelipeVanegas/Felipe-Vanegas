@@ -1,0 +1,18 @@
+Algoritmo Nésimo_término_de_la_sucesión
+	Definir n, a, b, c Como Entero
+	Escribir "Ingrese el valor de n:"
+	Leer n
+	Si n <= 2 Entonces
+		Escribir "El termino ", n, " de la sucesion es: 1"
+	SiNo
+		a <- 1
+		b <- 1
+		Mientras n > 2 Hacer
+			c <- a + b
+			a <- b
+			b <- c
+			n <- n - 1
+		FinMientras
+		Escribir "El termino es: ", b
+	FinSi
+FinAlgoritmo

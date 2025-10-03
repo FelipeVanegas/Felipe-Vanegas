@@ -1,0 +1,19 @@
+Algoritmo  suma_pares_y_producto_impares
+	Definir n, a, s_p, p_i Como Entero
+	Escribir "Ingrese la cantidad de numeros: "
+	Leer n
+	s_p <- 0
+	p_i <- 1
+	Mientras n > 0 Hacer
+		Escribir "Ingrese un numero: "
+		Leer a
+		Si a MOD 2 = 0 Entonces
+			s_p <- s_p + a
+		SiNo
+			p_i <- p_i * a
+		FinSi
+		n <- n - 1
+	FinMientras
+	Escribir "La suma de los pares es: ", s_p
+	Escribir "El producto de los impares es: ", p_i
+FinAlgoritmo

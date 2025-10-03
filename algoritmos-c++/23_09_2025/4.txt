@@ -1,0 +1,10 @@
+Algoritmo Primeros_100_Pares
+	Definir a, b Como Entero
+    a <- 100
+    b <- 0
+    Mientras a <> 0 Hacer
+        Escribir b
+        b <- b + 2
+        a <- a - 1
+    FinMientras
+FinAlgoritmo

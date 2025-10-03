@@ -1,0 +1,18 @@
+Algoritmo Suma_Multiplos_3
+	Definir a, b, c, d Como Entero
+	Escribir "Ingrese la cantidad de multiplos de 3 que desea sumar:"
+	Leer a
+	c <- 0
+	d <- 0
+	Mientras d < a Hacer
+		Escribir "Ingrese un número multiplo de 3:"
+		Leer b
+		Si b MOD 3 = 0 Entonces
+			c <- c + b
+			d <- d + 1
+		SiNo
+			Escribir "No es multiplo de 3 intente de nuevo."
+		FinSi
+	FinMientras
+	Escribir "La suma de los ", a, " multiplos de 3 es: ", c
+FinAlgoritmo

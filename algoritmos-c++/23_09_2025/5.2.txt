@@ -1,0 +1,18 @@
+Algoritmo Suma_Pares
+	Definir a, b, c, d Como Entero
+	Escribir "Ingrese la cantidad de números pares que desea sumar:"
+	Leer a
+	c <- 0
+	d <- 0
+	Mientras d < a Hacer
+		Escribir "Ingrese un número par:"
+		Leer b
+		Si b MOD 2 = 0 Entonces
+			c <- c + b
+			d <- d + 1
+		SiNo
+			Escribir "No es par intente de nuevo."
+		FinSi
+	FinMientras
+	Escribir "La suma de los ", a, " pares es: ", c
+FinAlgoritmo

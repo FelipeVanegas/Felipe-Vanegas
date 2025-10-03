@@ -1,0 +1,13 @@
+Algoritmo MCD
+	Definir a, b, c Como Entero
+    Escribir "Ingrese el valor de a, b:"
+    Leer a
+    Leer b
+    c <- a MOD b
+    Mientras c <> 0 Hacer
+        a <- b
+        b <- c
+        c <- a MOD b
+    FinMientras
+    Escribir "El MCD es: ", b
+FinAlgoritmo
